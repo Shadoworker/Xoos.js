@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+    <div id="scene"></div>
+
+
+    <script src="../dist/xoos.js"></script>
+    <script>
+
+        var myScene = new Xoos.scene("scene", 600, 400);
+
+        var layer1 = new Xoos.layer();
+        var layer2 = new Xoos.layer();
+
+        myScene.add(layer1);
+        myScene.add(layer2);
+        
+    </script>
+</body>
+</html>
