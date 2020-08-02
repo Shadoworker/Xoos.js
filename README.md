@@ -3,6 +3,12 @@
 # Xoos.js
 JS-based SVG drawing framework
 
+## Features
+
+    • Smooth lines
+    • Realtime Eraser
+    • Brushes
+    • Layers support
 
 ## Example
 
