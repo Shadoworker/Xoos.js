@@ -1,4 +1,4 @@
-<img src="utils/images/logo01.png" width="100px"  />
+<img src="utils/images/logo02.png" width="120px"  />
 
 # Xoos.js
 JS-based SVG drawing framework
