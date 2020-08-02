@@ -7,7 +7,7 @@ JS-based SVG drawing framework
 
     • Smooth lines
     • Realtime Eraser
-    • Brushes
+    • Multiple Brushes
     • Layers support
 
 ## Example
